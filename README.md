@@ -10,7 +10,9 @@ Used as a way to test various input types with the Cardboard, including:
 
 Use the button at the bottom left of the board to switch input modes.
 
-TODO:
+![Breakout VR](screenshot.png)
+
+**TODO:**
 * Add touch controls, (e.g. AxisTouchButton.cs)
 * Make the inputControlPlane wider, based on user testing
 * Some additional input methods, which are mostly variations on what is already here, such as:
